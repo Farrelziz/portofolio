@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.btn-cst{
+    display: flex;
+    width: 100%;
+    text-align: left;
+    color:#727272;
+    gap: 10px;
+    padding: 10px;
+}
+.btn-cst:hover{
+    background-color: #1b76ff;
+    color: #fff;
+}
+.btn-cst.active{
+    background-color: #1b76ff;
+    color: #fff;
+}
+.btn-quit{
+    background-color: #1b76ff;
+    color: #fff;
+    width: 100%;
+}
+.btn-quit:hover{
+    border: 1px solid black;
+}
