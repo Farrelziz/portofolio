@@ -1,0 +1,7 @@
+[submodule "tetris-game"]
+    path = tetris-game
+    url = https://farrelziz.github.io/portofolio/tetris-game.git
+
+[submodule "another-submodule"]
+    path = another-submodule
+    url = https://farrelziz.github.io/portofolio/register.git
